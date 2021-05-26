@@ -18,9 +18,9 @@ pandas = "*"
 requests = "*"
 wtforms-components = "*"
 sklearn = "*"
-
+gunicorn = "*"
 [dev-packages]
 
 [requires]
 python_version = "3.6"
-gunicorn = "*"
+
