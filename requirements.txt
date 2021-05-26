@@ -1,4 +1,3 @@
-[packages]
 flask 
 prompt-toolkit 
 flask-sqlalchemy
